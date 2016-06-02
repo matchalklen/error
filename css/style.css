@@ -1,0 +1,16 @@
+.message{
+	background-color: yellow;
+}
+
+.error{
+	background-color: red;
+}
+
+h1{
+	color: purple;
+	background: pink;
+}
+
+#notification{
+	background-color: lightgreen;
+}
